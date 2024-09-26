@@ -1,4 +1,4 @@
-<a href="https://stackoverflow-readme-profile.vercel.app/tags-league/flutter/users/1274485">
+<!--a href="https://stackoverflow-readme-profile.vercel.app/tags-league/flutter/users/1274485">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://stackoverflow-readme-profile.johannchopin.fr/tags-league-ranking/flutter/1274485?theme=dark">
     <img src='https://stackoverflow-readme-profile.johannchopin.fr/tags-league-ranking/flutter/1274485' alt='Stackoverflow ranking for flutter'>
@@ -15,7 +15,7 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://stackoverflow-readme-profile.johannchopin.fr/tags-league-ranking/java/1274485?theme=cobalt">
     <img src='https://stackoverflow-readme-profile.johannchopin.fr/tags-league-ranking/java/1274485' alt='Stackoverflow ranking for java'>
   </picture>
-</a>
+</a-->
 
 <br/>
 
